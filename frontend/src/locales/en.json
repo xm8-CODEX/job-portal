@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Browse Jobs",
+    "postJob": "Post a Job",
+    "myApplications": "My Applications",
+    "recruiterDashboard": "Recruiter Dashboard",
+    "adminDashboard": "Admin Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "welcome": "Welcome",
+    "role": "Role"
+  },
+  "roles": {
+    "SEEKER": "Job Seeker",
+    "RECRUITER": "Recruiter",
+    "ADMIN": "Administrator"
+  },
+  "hero": {
+    "title": "Find Your Dream Job in Your Own Language",
+    "subtitle": "Discover thousands of job opportunities across top companies or hire the best talent effortlessly in English, Hindi, or Marathi.",
+    "searchPlaceholder": "Job title, keywords, or role...",
+    "locationPlaceholder": "City, state, or Remote...",
+    "searchButton": "Search Jobs"
+  },
+  "filters": {
+    "title": "Filters",
+    "all": "All",
+    "location": "Location",
+    "jobTitle": "Job Title",
+    "minSalary": "Minimum Salary",
+    "experience": "Experience Level",
+    "clear": "Clear Filters",
+    "apply": "Apply Filters",
+    "showingResults": "Showing {{count}} jobs"
+  },
+  "job": {
+    "salary": "Salary",
+    "location": "Location",
+    "experience": "Experience",
+    "postedBy": "Posted by",
+    "postedOn": "Posted on",
+    "description": "Job Description",
+    "applyNow": "Apply Now",
+    "applied": "Applied",
+    "viewDetails": "View Details",
+    "noJobs": "No jobs found matching your criteria.",
+    "status": "Status",
+    "open": "Open",
+    "closed": "Closed",
+    "draft": "Draft"
+  },
+  "status": {
+    "PENDING": "Pending",
+    "SHORTLISTED": "Shortlisted",
+    "REJECTED": "Rejected",
+    "ACCEPTED": "Accepted"
+  },
+  "actions": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "update": "Update",
+    "viewApplicants": "View Applicants",
+    "close": "Close",
+    "confirm": "Confirm"
+  },
+  "applyModal": {
+    "title": "Apply for {{jobTitle}}",
+    "resumeLabel": "Resume Link / Portfolio URL",
+    "resumePlaceholder": "https://drive.google.com/... or https://linkedin.com/in/...",
+    "submitApplication": "Submit Application",
+    "submitting": "Submitting...",
+    "success": "Application submitted successfully!",
+    "alreadyApplied": "You have already applied for this job."
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Enter your credentials to access your account",
+    "registerTitle": "Create an Account",
+    "registerSubtitle": "Join as a Job Seeker or Recruiter today",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "selectRole": "Select Your Role",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account"
+  },
+  "dashboard": {
+    "myApplicationsTitle": "My Submitted Applications",
+    "recruiterJobsTitle": "Jobs Posted by You",
+    "applicantsFor": "Applicants for",
+    "noApplications": "You haven't applied to any jobs yet.",
+    "noPostedJobs": "You haven't posted any jobs yet.",
+    "applicantName": "Applicant Name",
+    "applicantEmail": "Email",
+    "resume": "Resume",
+    "appliedDate": "Applied Date",
+    "updateStatus": "Update Status",
+    "viewResume": "View Resume"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "stats": "Platform Statistics",
+    "totalUsers": "Total Users",
+    "totalSeekers": "Job Seekers",
+    "totalRecruiters": "Recruiters",
+    "totalJobs": "Total Jobs",
+    "openJobs": "Active Jobs",
+    "totalApplications": "Total Applications",
+    "usersList": "Registered Users",
+    "deleteUser": "Delete User",
+    "deleteConfirm": "Are you sure you want to delete this user?"
+  }
+}

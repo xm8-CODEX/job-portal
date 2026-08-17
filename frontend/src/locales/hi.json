@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "होम",
+    "jobs": "नौकरियां देखें",
+    "postJob": "नौकरी पोस्ट करें",
+    "myApplications": "मेरे आवेदन",
+    "recruiterDashboard": "नियोक्ता डैशबोर्ड",
+    "adminDashboard": "एडमिन डैशबोर्ड",
+    "login": "लॉग इन",
+    "register": "रजिस्टर करें",
+    "logout": "लॉग आउट",
+    "welcome": "स्वागत है",
+    "role": "भूमिका"
+  },
+  "roles": {
+    "SEEKER": "नौकरी चाहने वाला (सीकर)",
+    "RECRUITER": "नियोक्ता (रिक्रूटर)",
+    "ADMIN": "प्रशासक (एडमिन)"
+  },
+  "hero": {
+    "title": "अपनी भाषा में अपने सपनों की नौकरी पाएं",
+    "subtitle": "शीर्ष कंपनियों में हजारों अवसरों की खोज करें या अंग्रेजी, हिंदी और मराठी में बेहतरीन प्रतिभाओं को आसानी से नियुक्त करें।",
+    "searchPlaceholder": "पद का नाम, कौशल या कीवर्ड...",
+    "locationPlaceholder": "शहर, राज्य या रिमोट...",
+    "searchButton": "नौकरी खोजें"
+  },
+  "filters": {
+    "title": "फ़िल्टर",
+    "all": "सभी",
+    "location": "स्थान",
+    "jobTitle": "पद का नाम",
+    "minSalary": "न्यूनतम वेतन",
+    "experience": "अनुभव",
+    "clear": "फ़िल्टर हटाएं",
+    "apply": "फ़िल्टर लागू करें",
+    "showingResults": "{{count}} नौकरियां उपलब्ध हैं"
+  },
+  "job": {
+    "salary": "वेतन",
+    "location": "स्थान",
+    "experience": "अनुभव",
+    "postedBy": "द्वारा पोस्ट किया गया",
+    "postedOn": "पोस्ट की तारीख",
+    "description": "नौकरी का विवरण",
+    "applyNow": "आवेदन करें",
+    "applied": "आवेदन कर दिया",
+    "viewDetails": "विवरण देखें",
+    "noJobs": "आपके मापदंड से मेल खाती कोई नौकरी नहीं मिली।",
+    "status": "स्थिति",
+    "open": "खुला है",
+    "closed": "बंद",
+    "draft": "प्रारूप"
+  },
+  "status": {
+    "PENDING": "लंबित",
+    "SHORTLISTED": "छांटे गए",
+    "REJECTED": "अस्वीकृत",
+    "ACCEPTED": "स्वीकृत"
+  },
+  "actions": {
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "update": "अपडेट करें",
+    "viewApplicants": "आवेदक देखें",
+    "close": "बंद करें",
+    "confirm": "पुष्टि करें"
+  },
+  "applyModal": {
+    "title": "{{jobTitle}} के लिए आवेदन करें",
+    "resumeLabel": "बायोडाटा (Resume / Portfolio लिंक)",
+    "resumePlaceholder": "https://drive.google.com/... या लिंक्डइन लिंक",
+    "submitApplication": "आवेदन जमा करें",
+    "submitting": "जमा किया जा रहा है...",
+    "success": "आवेदन सफलतापूर्वक जमा हो गया!",
+    "alreadyApplied": "आप पहले ही इस नौकरी के लिए आवेदन कर चुके हैं।"
+  },
+  "auth": {
+    "loginTitle": "पुनः स्वागत है",
+    "loginSubtitle": "अपने खाते में प्रवेश करने के लिए विवरण दर्ज करें",
+    "registerTitle": "नया खाता बनाएं",
+    "registerSubtitle": "नौकरी चाहने वाले या नियोक्ता के रूप में आज ही शामिल हों",
+    "fullName": "पूरा नाम",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "selectRole": "अपनी भूमिका चुनें",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "loginButton": "लॉग इन करें",
+    "registerButton": "खाता बनाएं"
+  },
+  "dashboard": {
+    "myApplicationsTitle": "मेरे द्वारा किए गए आवेदन",
+    "recruiterJobsTitle": "आपके द्वारा पोस्ट की गई नौकरियां",
+    "applicantsFor": "के लिए आवेदक",
+    "noApplications": "आपने अभी तक किसी नौकरी के लिए आवेदन नहीं किया है।",
+    "noPostedJobs": "आपने अभी तक कोई नौकरी पोस्ट नहीं की है।",
+    "applicantName": "आवेदक का नाम",
+    "applicantEmail": "ईमेल",
+    "resume": "बायोडाटा",
+    "appliedDate": "आवेदन की तारीख",
+    "updateStatus": "स्थिति बदलें",
+    "viewResume": "बायोडाटा देखें"
+  },
+  "admin": {
+    "title": "एडमिन डैशबोर्ड",
+    "stats": "प्लेटफ़ॉर्म सांख्यिकी",
+    "totalUsers": "कुल उपयोगकर्ता",
+    "totalSeekers": "नौकरी चाहने वाले",
+    "totalRecruiters": "नियोक्ता",
+    "totalJobs": "कुल नौकरियां",
+    "openJobs": "सक्रिय नौकरियां",
+    "totalApplications": "कुल आवेदन",
+    "usersList": "पंजीकृत उपयोगकर्ता",
+    "deleteUser": "उपयोगकर्ता हटाएं",
+    "deleteConfirm": "क्या आप वाकई इस उपयोगकर्ता को हटाना चाहते हैं?"
+  }
+}
